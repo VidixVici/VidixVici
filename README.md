@@ -14,7 +14,6 @@
 <br>
 
 ## My Skills
-
  ### Programming Languages
  - Python
  - Java
