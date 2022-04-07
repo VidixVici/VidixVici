@@ -30,3 +30,13 @@
 
 -----
 Last Edited on: 04/04/2022
+
+Contact me:  
+<br>
+Website: https://vidixvici.github.io/
+<br>
+Discord: Zach.VxV#0705
+<br>
+Instagram: [VidixVici](https://www.instagram.com/vidixvici/) 
+<br>
+Twitter: [VidixVici](https://twitter.com/VidixVici)
