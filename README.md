@@ -4,7 +4,7 @@
 
 ## About me
 - He/Him
-- Junior at LASA
+- Senior
 - Played Piano for 9 years
 - Completed MV Calculus
 - Top 500 in Overwatch Seasons 23 -> 32
