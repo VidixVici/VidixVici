@@ -33,9 +33,9 @@ Last Edited on: 04/04/2022
 
 Contact me:  
 <br>
-Website: https://vidixvici.github.io/
+Website: https://vidixvici.com/
 <br>
-Discord: Zach.VxV#0705
+Discord: Alphabet#0001
 <br>
 Instagram: [VidixVici](https://www.instagram.com/vidixvici/) 
 <br>
