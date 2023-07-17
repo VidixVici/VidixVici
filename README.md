@@ -4,10 +4,11 @@
 
 ## About me
 - He/Him
-- Senior
-- Played Piano for 9 years
+- Freshman College
+- Played Piano for 10+ years
 - Completed MV Calculus
 - Top 500 in Overwatch Seasons 23 -> 32
+- Radiant in Valorant Episode 6
 - I'm currently learning Frontend Web Development
 - Always looking to learn new things (Right now Chess is highly entertaining to me)
 
@@ -18,6 +19,8 @@
  - Python
  - Java
  - HTML
+ - CSS
+ - JS
  - Swift (Learning)
  ### IDEs
  
@@ -35,8 +38,7 @@ Contact me:
 <br>
 Website: https://vidixvici.com/
 <br>
-Discord: Alphabet#0001
+Discord: zachharbert
 <br>
-Instagram: [VidixVici](https://www.instagram.com/vidixvici/) 
+Instagram: [VidixVici](https://www.instagram.com/thezacharyharbert/) 
 <br>
-Twitter: [VidixVici](https://twitter.com/VidixVici)
