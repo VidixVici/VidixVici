@@ -4,9 +4,9 @@
 
 ## About me
 - He/Him
-- Freshman College
+- Sophomore Nuclear Engineering Student
 - Played Piano for 10+ years
-- Completed MV Calculus
+- Completed Differential Equations
 - Top 500 in Overwatch Seasons 23 -> 32
 - Radiant in Valorant Episode 6
 - I'm currently learning Frontend Web Development
@@ -21,7 +21,6 @@
  - HTML
  - CSS
  - JS
- - Swift (Learning)
  ### IDEs
  
 <p>
@@ -32,13 +31,13 @@
 <br/>
 
 -----
-Last Edited on: 04/04/2022
+Last Edited on: 02/25/2025
 
 Contact me:  
 <br>
 Website: https://vidixvici.com/
 <br>
-Discord: zachharbert
+Discord: thezacharyharbert
 <br>
 Instagram: [VidixVici](https://www.instagram.com/thezacharyharbert/) 
 <br>
